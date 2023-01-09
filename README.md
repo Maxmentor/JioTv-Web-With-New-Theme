@@ -1,5 +1,6 @@
 # {Updated 2 October 2022}
 
+
 Watch Live Tv Now
 
 Step 1 - Download SCRIPT
@@ -14,4 +15,7 @@ Step 5- Goto http://localhost:8080/Maxprotv/login.php?user=NUMBER-withouth+91&pa
 
 Note :- In Step 5 , Fill Your Mobile Number Without +91 & Password. After Login You Can Watch All Jiotv Live Channels .
 
-Telegram :- http://t.me/techmaxpro
+
+
+Hi I am Maxpro [Techmax]
+Telegram :- http://t.me/maxmentor
